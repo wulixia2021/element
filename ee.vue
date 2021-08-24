@@ -1,5 +1,5 @@
 <template>
-    <div>世界你好e孤鸿寡鹄e</div>
+    <div>我修改了</div>
 </template>
 <script></script>
 <style>
